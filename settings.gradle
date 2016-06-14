@@ -1,0 +1,1 @@
+include ':app', ':service_demo_2', ':lx_intentservice_1', ':lx_bind_service_01'

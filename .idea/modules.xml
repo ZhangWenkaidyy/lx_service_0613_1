@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lx_bind_service_01/lx_bind_service_01.iml" filepath="$PROJECT_DIR$/lx_bind_service_01/lx_bind_service_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lx_intentservice_1/lx_intentservice_1.iml" filepath="$PROJECT_DIR$/lx_intentservice_1/lx_intentservice_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lx_service_0613_1.iml" filepath="$PROJECT_DIR$/lx_service_0613_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_demo_2/service_demo_2.iml" filepath="$PROJECT_DIR$/service_demo_2/service_demo_2.iml" />
+    </modules>
+  </component>
+</project>
